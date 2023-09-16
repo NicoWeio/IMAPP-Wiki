@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to the IMAPP-Wiki!](README.md)
+* [Welcome to the IMAPP wiki!](README.md)
 * [FAQ](FAQ.md)
 * [France](France/README.md)
   * [Accommodation in France](<France/Accomodation in France.md>)
