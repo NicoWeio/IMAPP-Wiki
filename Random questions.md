@@ -1,0 +1,5 @@
+- How do I get Wi-Fi on campus?
+	- The universities provide a network called *eduroam*
+	- Assuming you are enrolled at Dortmund University, follow [this guide](https://service.tu-dortmund.de/en/anleitungen-wlan)
+		- Alternatively, you should be able to achieve the same results using your French university account
+	- Connection speeds and reliability at Clermont University are subpar
