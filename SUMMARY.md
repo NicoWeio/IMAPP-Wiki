@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to the IMAPP-Wiki!](README.md)
-* [Random questions](<Random questions.md>)
+* [FAQ](FAQ.md questions.md>)
 * [Accomodation in France](<Accomodation in France.md>)
 * [Accomodation in Germany](<Accomodation in Germany.md>)
 * [Enrollment in France](<Enrollment in France.md>)
