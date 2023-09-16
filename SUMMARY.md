@@ -1,0 +1,17 @@
+# Table of contents
+
+* [Welcome to the IMAPP-Wiki!](README.md)
+* [FAQ](FAQ.md)
+* [France](France/README.md)
+  * [Accommodation in France](<France/Accomodation in France.md>)
+  * [Enrollment in France](<France/Enrollment in France.md>)
+  * [FAQ](France/FAQ.md)
+  * [Bars etc.](<France/Leisure in France.md>)
+  * [Timetable](France/Timetable.md)
+* [Germany](Germany/README.md)
+  * [Accommodation in Germany](<Germany/Accomodation in Germany.md>)
+* [Italy](Italy/README.md)
+  * [Accommodation in Italy](<Italy/Accommodation in Italy.md>)
+* [Certificates](Certificates.md)
+* [Professors](People.md)
+* [Starting IMAPP as a student from TU Dortmund](<Starting IMAPP as a student from TU Dortmund.md>)
