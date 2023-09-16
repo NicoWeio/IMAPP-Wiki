@@ -6,6 +6,6 @@
 * [Accomodation in Germany](<Accomodation in Germany.md>)
 * [Enrollment in France](<Enrollment in France.md>)
 * [Certificates](Certificates.md)
-* [Bars etc.](Leisure.md)
+* [Bars etc.](Leisure%20in%20France.md)
 * [Professors](People.md)
 * [Starting IMAPP as a student from TU Dortmund](<Starting IMAPP as a student from TU Dortmund.md>)

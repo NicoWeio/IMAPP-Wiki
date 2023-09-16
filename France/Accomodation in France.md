@@ -12,7 +12,7 @@
 # Guarantors
 - [Visale](https://visale.fr/)
 	- Free offering by the state of France
-	- Might insist on a *french* [certificate of enrollment](./Certificates)
+	- Might insist on a *french* [certificate of enrollment](Certificates.md)
 		- You probably won't have that until the semester started!
 - [Garantme](https://garantme.fr/)
 	- Commercial guarantor
