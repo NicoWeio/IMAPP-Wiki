@@ -1,0 +1,4 @@
+- In France, the timetable is not the same every week: There are weeks where you'll do nothing but Python, for example.
+- [Here](https://web.archive.org/web/20230323043400/https://imapp.eu/wp-content/uploads/2022/02/IMAPP_timetable_summer_term_2022.pdf) is an archived version of the official timetable of 2022
+- Until an official timetable is available, I generated an unofficial one: see [here](/assets/unofficial_timetable_2023.pdf)
+	- This is based on a [digital calendar](https://edt.uca.fr/direct/myplanning.jsp) provided by the university
