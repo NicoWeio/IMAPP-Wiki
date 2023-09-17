@@ -13,5 +13,5 @@
 * [Italy](Italy/README.md)
   * [Accommodation in Italy](<Italy/Accommodation in Italy.md>)
 * [Certificates](Certificates.md)
-* [Professors](People.md)
+* [People](People.md)
 * [Starting IMAPP as a student from TU Dortmund](<Starting IMAPP as a student from TU Dortmund.md>)

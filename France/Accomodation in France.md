@@ -9,6 +9,7 @@
   * In 2023, _no_ accommodation was available at the start of the second phase
   * Only _once_, from August 26th–29th, there was _one_ room offered
 * You might have better chances if you [contact CROUS Clermont](https://www.crous-clermont.fr/contacts/logement-et-vie-en-residence/) instead of relying on their website
+* It has been tried to reserve CROUS accommodation for IMAPP students, but as of 2023, to no avail
 * Other possibilities are outlined [here](https://www.crous-clermont.fr/etudes-internationales/se-loger-en-france/)
 
 ## Companies
