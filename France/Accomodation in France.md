@@ -25,6 +25,11 @@
     * It can be before the rental contract starts (?)
 * [Lokaviz](https://www.lokaviz.fr/)
   * A CROUS service that arranges private accommodation
+* [Leboncoin](https://www.leboncoin.fr/v/clermont-ferrand\_63000/colocations)
+  * General-purpose platform for classified ads
+* [Appartager](https://www.appartager.com/colocations/puy-de-dome/clermont-ferrand)
+* [StudCity](https://www.studcity-clermont.com/)
+  * Commercial provider of student residences
 
 ## Guarantors
 
