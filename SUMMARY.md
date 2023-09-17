@@ -6,7 +6,7 @@
   * [Accommodation in France](<France/Accommodation in France.md>)
   * [Enrollment in France](<France/Enrollment in France.md>)
   * [FAQ](France/FAQ.md)
-  * [Bars etc.](<France/Leisure in France.md>)
+  * [Leisure in France](<France/Leisure in France.md>)
   * [Timetable](France/Timetable.md)
 * [Germany](Germany/README.md)
   * [Accommodation in Germany](<Germany/Accommodation in Germany.md>)
