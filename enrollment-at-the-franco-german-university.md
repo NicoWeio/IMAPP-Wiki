@@ -19,6 +19,8 @@ The website is only available in German and French.
 Nobody has confirmed that I made the correct choices; I'm trying to change that right now…
 {% endhint %}
 
+<figure><img src=".gitbook/assets/DFH_enrollment_translated_1.png" alt=""><figcaption><p>Translation of the full page (Thanks, Eman!)</p></figcaption></figure>
+
 <figure><img src=".gitbook/assets/DFH_enrollment_2.png" alt=""><figcaption><p>We <em>think</em> that <em>Beantragen Sie Mobilitätsbeihilfe</em> means that you want to apply for the scholarship. Consequently, if you already receive the EMJM scholarship, you should not check this box. (Note that you are supposed to enroll anyway.)</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/DFH_enrollment_3.png" alt=""><figcaption></figcaption></figure>
