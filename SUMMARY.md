@@ -8,6 +8,7 @@
   * [FAQ](France/FAQ.md)
   * [Leisure in France](<France/Leisure in France.md>)
   * [Timetable](France/Timetable.md)
+  * [Data Science Degree](france/data-science-degree.md)
 * [Germany](Germany/README.md)
   * [Accommodation in Germany](<Germany/Accommodation in Germany.md>)
 * [Italy](Italy/README.md)
