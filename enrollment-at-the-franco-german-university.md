@@ -1,5 +1,9 @@
 # Enrollment at the Franco-German University
 
+{% hint style="info" %}
+The enrollment/scholarship comes with a few minor obligations, including the submission of a report at the end of the programme.
+{% endhint %}
+
 {% hint style="warning" %}
 The website is only available in German and French.
 {% endhint %}
