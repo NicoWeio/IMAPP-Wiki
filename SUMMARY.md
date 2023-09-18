@@ -12,6 +12,8 @@
   * [Accommodation in Germany](<Germany/Accommodation in Germany.md>)
 * [Italy](Italy/README.md)
   * [Accommodation in Italy](<Italy/Accommodation in Italy.md>)
+* [Scholarships](scholarships.md)
 * [Certificates](Certificates.md)
+* [Enrollment at the Franco-German University](enrollment-at-the-franco-german-university.md)
 * [People](People.md)
 * [Starting IMAPP as a student from TU Dortmund](<Starting IMAPP as a student from TU Dortmund.md>)
