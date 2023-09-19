@@ -16,9 +16,10 @@ This was the procedure in 2023. It's likely to change.
   * You'll get an e-mail (from scola.pac@uca.fr) to your UCA account asking you for these
   * What to upload:
     * Attestation d'assurance relative à la responsabilité civile \[…] → Dr. Walter
-      * Attestation de droits à l'assurance maladie → Dr. Walter
-      * Diplôme du bac → A-levels/…
-        * bac ≠ Bachelor!
-      * Diplômes obtenus depuis le bac → Bachelor's/…
-      * Pièce d'identité en cours de validité (Carte d'identité RECTO VERSO ou passeport) → ID card; you can merge the front and back into a single PDF using [online tools](https://www.ilovepdf.com/jpg\_to\_pdf)
+    * Attestation de droits à l'assurance maladie → Dr. Walter
+    * Diplôme du bac → A-levels/…
+      * bac ≠ Bachelor!
+    * Diplômes obtenus depuis le bac → Bachelor's/…
+    * Pièce d'identité en cours de validité (Carte d'identité RECTO VERSO ou passeport) → ID card; you can merge the front and back into a single PDF using [online tools](https://www.ilovepdf.com/jpg\_to\_pdf)
+      * Enter the expiration date as DD/MM/YYYY
 * Upload a photo for your French student ID card
