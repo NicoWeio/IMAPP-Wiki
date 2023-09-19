@@ -11,4 +11,13 @@ This was the procedure in 2023. It's likely to change.
   * If you enter the building from [here](https://maps.app.goo.gl/eHRUg6KiQFEF8nXu6), it's almost immediately to the left
   * Even if the door is closed, just go in
 * Go to https://ent.uca.fr/compte/password/firstStudentConnexion and follow the instructions
+* Upload some documents [here](https://reins.dsi.uca.fr/pj-web/page/login.jsf)
+  * You'll get an e-mail to the UCA account asking you for these
+  * What to upload:
+    * Attestation d'assurance relative à la responsabilité civile \[…] → Dr. Walter
+      * Attestation de droits à l'assurance maladie → Dr. Walter
+      * Diplôme du bac → A-levels/…
+        * bac ≠ Bachelor!
+      * Diplômes obtenus depuis le bac → Bachelor's/…
+      * Pièce d'identité en cours de validité (Carte d'identité RECTO VERSO ou passeport) → ID card; you can merge the front and back into a single PDF using [online tools](https://www.ilovepdf.com/jpg\_to\_pdf)
 * Upload a photo for your French student ID card
