@@ -4,6 +4,7 @@
 
 * [SUAPS](https://suaps.uca.fr/) (_Service Universitaire des Activités Physiques et Sportives_)
   * University service providing a variety of activities
+  * After a deadline early in the semester, registration is first-come-first-serve – better register early!
 
 ## Locations
 
