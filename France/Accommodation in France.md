@@ -43,6 +43,7 @@
   * The contract is for a year, but if you cancel, you get the money for the remaining months back (minus €70) [¹](https://help.garantme.fr/en/guaranteetransfer)[²](https://help.garantme.fr/en/how-do-i-cancel-my-guarantee)
   * Comfortable English user interface
   * Might call you if you don't respond
+* [SmartGarant](https://www.smart-garant.com/)
 * Private guarantors
   * Must live in France!
   * In the past, certain French professors have volunteered to be guarantors for IMAPP students
