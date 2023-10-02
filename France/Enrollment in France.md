@@ -23,3 +23,6 @@ This was the procedure in 2023. It's likely to change.
     * Pièce d'identité en cours de validité (Carte d'identité RECTO VERSO ou passeport) → ID card; you can merge the front and back into a single PDF using [online tools](https://www.ilovepdf.com/jpg\_to\_pdf)
       * Enter the expiration date as DD/MM/YYYY
 * Upload a photo for your French student ID card
+* Go get your student ID card
+  * Office: _Salle TC, B.1.24_ (upstairs in the administration building, about [here](https://maps.app.goo.gl/E1mY3oJ6X26jqjhq8))
+  * There does not seem to be a notification when the card is ready
