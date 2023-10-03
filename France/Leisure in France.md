@@ -10,11 +10,12 @@
 
 * [Parc Montjuzet](https://maps.app.goo.gl/FE5MLjC15eV5wshv7)
   * Nice view of the city
-* [Stade Nautique Pierre-de-Coubertin](https://maps.app.goo.gl/qvjurZ9WymgTwPLW7)
+* [Stade Nautique Pierre-de-Coubertin](https://maps.app.goo.gl/qvjurZ9WymgTwPLW7) (swimming pool)
   * Cheap
-  * Open roof in summer
+  * Open roof during summer
   * Take care of French pool etiquette!
     * Mandatory bathing caps can be purchased on site
+* [Plan d'Eau de Cournon-d'Auvergne](https://maps.app.goo.gl/AWTjd7BwHn1hKr9E9) (water area with designated swimming area)
 
 ## Bars etc.
 
