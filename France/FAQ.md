@@ -10,3 +10,6 @@
     * Biology, **physics**, chemistry
   * [BDE ENIGMA](https://www.instagram.com/bdeenigma/)
     * Maths, Computer science, MIASHS (Mathematics and Computer Science Applied to Human and Social Sciences)
+  * [BDE Géologie](https://instagram.com/bdegeologie/)
+    * Geology
+  * Fun fact: BDE = Bureau Des Étudiants
