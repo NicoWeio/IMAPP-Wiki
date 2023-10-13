@@ -8,6 +8,7 @@
   * [Enrollment in France](<France/Enrollment in France.md>)
   * [Campus in France](france/campus-in-france.md)
   * [Leisure in France](<France/Leisure in France.md>)
+  * [Courses](france/courses.md)
   * [Timetable](France/Timetable.md)
   * [Data Science Degree](france/data-science-degree.md)
 * [Germany](Germany/README.md)
