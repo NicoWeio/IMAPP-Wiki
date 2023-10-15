@@ -13,3 +13,6 @@
   * [BDE Géologie](https://instagram.com/bdegeologie/)
     * Geology
   * Fun fact: BDE = Bureau Des Étudiants
+* Forbidden knowledge (consider those _known unknown_ 😉)
+  * The “mafia machine”
+  * How to get free food from the food truck
