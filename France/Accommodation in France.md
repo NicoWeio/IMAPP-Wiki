@@ -31,6 +31,10 @@
 * [StudCity](https://www.studcity-clermont.com/)
   * Commercial provider of student residences
 
+### Search engines
+
+* [ErasmusPlay](https://erasmusplay.com)
+
 ## Guarantors
 
 * [Visale](https://visale.fr/)
