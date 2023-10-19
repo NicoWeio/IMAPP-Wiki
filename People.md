@@ -7,3 +7,5 @@
 * [Carlo Venturi](https://www.linkedin.com/in/carlo-venturi-a01343164/)
   * Handles PR: takes photos/videos, edits and publishes them
   * See the [FAQ page](FAQ.md) for a list of social media accounts
+* Ziad Ajaltouni (Symmetries)
+  * He's… special
