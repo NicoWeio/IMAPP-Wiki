@@ -14,7 +14,7 @@
   * Nothing but your notes and a pen: no student ID card, no paper
 * Are there any exams from previous semesters for practicing?
   * Yes, usually: Ask the professors and look at the courses' Moodle pages
-  * There is also at least one Google Drive share, which I won't link for legal reasons
+  * There is also at least one collection on Google Drive, which I won't link for legal reasons
 
 {% hint style="warning" %}
 The following questions are not resolved yet:
