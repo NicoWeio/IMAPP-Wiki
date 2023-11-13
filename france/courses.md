@@ -4,9 +4,10 @@
 
 | Course                           | Time    | Allowed aids                                                                                                                                                  | Notes                                                  |
 | -------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| Introduction to particle physics | 90 min  | <ul><li>Lecture materials (analog+digital</li><li>Calculator (hardly needed)</li><li>PDG (booklet or <a href="https://pdglive.lbl.gov/">online</a>)</li></ul> | <ul><li>Plus: homework after the week (30 %)</li></ul> |
+| Introduction to particle physics | 90 min  | <ul><li>Lecture materials (analog+digital</li><li>Calculator (hardly needed)</li><li>PDG (booklet or <a href="https://pdglive.lbl.gov/">online</a>)</li></ul> |                                                        |
 | General Relativity               | 120 min | <ul><li>Lecture materials (analog+digital)</li><li>Calculator (not needed)</li></ul>                                                                          |                                                        |
-| Statistics                       |         | <ul><li>Lecture materials (analog+digital)</li></ul>                                                                                                          |                                                        |
+| Statistics                       |         | <ul><li>Lecture materials (analog+digital)</li></ul>                                                                                                          | <ul><li>Plus: homework after the week (30 %)</li></ul> |
+| Data Mining                      |         |                                                                                                                                                               | <ul><li>Plus: homework after the week (30 %)</li></ul> |
 
 ## FAQ
 
