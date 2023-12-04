@@ -14,8 +14,12 @@
 
 ## Companies
 
+### Mediation
+
 * [Studapart](https://studapart.com/)
+  * ✅ some of us have used [this](https://www.studapart.com/en/property/8521fc52-f5a5-44fc-af53-d7e64e3717c3)
 * [OQORO](https://oqoro.com/)
+  * ✅ some of us have used [this](https://www.oqoro.com/colocation/clermont-ferrand/80-boulevard-lafayette-dc45c296)
   * French user interface
   * Allows multiple people to apply for a flat together, but everything else is handled separately
   * Slow to respond via e-mail
@@ -28,8 +32,12 @@
 * [Leboncoin](https://www.leboncoin.fr/v/clermont-ferrand\_63000/colocations)
   * General-purpose platform for classified ads
 * [Appartager](https://www.appartager.com/colocations/puy-de-dome/clermont-ferrand)
+
+### Commercial providers of student residences
+
 * [StudCity](https://www.studcity-clermont.com/)
-  * Commercial provider of student residences
+* [Les Estudines](https://www.estudines.com/uk/)
+  * ✅ some of us have used [this](https://www.estudines.com/uk/student-housing-clermont-ferrand/george-sand-residence)
 
 ### Search engines
 
@@ -42,6 +50,7 @@
   * Might insist on a _French_ [certificate of enrollment](Certificates.md)
     * You probably won't have that until the semester starts!
 * [Garantme](https://garantme.fr/)
+  * ✅ some of us have used this
   * Commercial guarantor
   * Roommates can be added to the contract for free
   * The contract is for a year, but if you cancel, you get the money for the remaining months back (minus €70) [¹](https://help.garantme.fr/en/guaranteetransfer)[²](https://help.garantme.fr/en/how-do-i-cancel-my-guarantee)
