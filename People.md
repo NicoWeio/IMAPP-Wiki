@@ -9,3 +9,5 @@
   * See the [FAQ page](FAQ.md) for a list of social media accounts
 * Ziad Ajaltouni (Symmetries)
   * He's… special
+* Xavier Lopez (QGP)
+  * Apologize if you are late for class
