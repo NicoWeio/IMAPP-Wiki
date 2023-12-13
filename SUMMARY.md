@@ -21,3 +21,4 @@
 * [People](People.md)
 * [Starting IMAPP as a student from TU Dortmund](<Starting IMAPP as a student from TU Dortmund.md>)
 * [Lore](lore.md)
+* [Pros & Cons](pros-and-cons.md)
