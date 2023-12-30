@@ -14,4 +14,6 @@ See also the [official FAQ page](https://imapp.eu/imapp/faq/)
   * [https://www.instagram.com/advancedmethodsparticlephysics/](https://www.instagram.com/advancedmethodsparticlephysics/)
   * [https://twitter.com/imapp\_in](https://twitter.com/imapp\_in)
   * [https://www.youtube.com/@imapp-advancedmethodsinpar6879](https://www.youtube.com/@imapp-advancedmethodsinpar6879)
+* What other websites reference IMAPP?
+  * [https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8299/](https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8299/)
 
