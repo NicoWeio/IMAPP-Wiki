@@ -1,5 +1,9 @@
 # FAQ
 
+{% hint style="info" %}
+See also the [official FAQ page](https://imapp.eu/imapp/faq/)
+{% endhint %}
+
 * How do I get Wi-Fi on campus?
   * The universities provide a network called _eduroam_
   * Assuming you are enrolled at Dortmund University, follow [this guide](https://service.tu-dortmund.de/en/anleitungen-wlan)
