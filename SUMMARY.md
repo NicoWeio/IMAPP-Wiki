@@ -15,6 +15,7 @@
   * [Accommodation in Germany](<Germany/Accommodation in Germany.md>)
 * [Italy](Italy/README.md)
   * [Accommodation in Italy](<Italy/Accommodation in Italy.md>)
+  * [Timetable in Italy](italy/timetable-in-italy.md)
 * [Pros & Cons](pros-and-cons.md)
 * [Timeline](timeline.md)
 * [Scholarships](scholarships.md)
