@@ -1,6 +1,6 @@
 # Accommodation in Italy
 
-All I can say right now is that accommodation will be a pain.
+The university has an [overview](https://www.unibo.it/en/services-and-opportunities/study-grants-and-subsidies/housing-and-residences/housing-and-residences-in-bologna/housing-and-residences-in-bologna) page.
 
 ## Companies
 
