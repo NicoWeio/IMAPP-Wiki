@@ -16,5 +16,6 @@ See also the [official FAQ page](https://imapp.eu/imapp/faq/)
   * [https://www.youtube.com/@imapp-advancedmethodsinpar6879](https://www.youtube.com/@imapp-advancedmethodsinpar6879)
 * What other websites reference IMAPP?
   * [https://physik.tu-dortmund.de/en/study/courses-and-qualification/international-master-of-particle/](https://physik.tu-dortmund.de/en/study/courses-and-qualification/international-master-of-particle/)
+  * [https://corsi.unibo.it/2cycle/ParticlePhysics](https://corsi.unibo.it/2cycle/ParticlePhysics)
   * [https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8299/](https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/8299/)
 
