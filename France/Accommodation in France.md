@@ -62,3 +62,11 @@
   * In the past, certain French professors have volunteered to be guarantors for IMAPP students
 * By the rental platform
   * Studapart offers the [_Studapart guarantee_](http://help.studapart.com/en/articles/3010730-what-is-the-studapart-guarantee-and-how-can-i-get-it)
+
+
+
+{% hint style="info" %}
+**Open questions**
+
+* Are we elegible for [CAF (housing aid)](https://www.caf.fr/allocataires/caf-de-loire-atlantique/offre-de-service/logement/etudiant/student-housing-aid)?
+{% endhint %}
