@@ -69,4 +69,5 @@
 **Open questions**
 
 * Are we elegible for [CAF (housing aid)](https://www.caf.fr/allocataires/caf-de-loire-atlantique/offre-de-service/logement/etudiant/student-housing-aid)?
+  * Seems to be 𝒪(50€/mo)
 {% endhint %}
