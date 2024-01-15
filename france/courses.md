@@ -13,7 +13,8 @@
 ## FAQ
 
 * Do I need to bring anything?
-  * Nothing but your notes and a pen: no student ID card, no paper
+  * Nothing but your notes (if allowed), a pen, and (though not always required) your student ID card
+  * Blank paper will be provided
 * On what scale will I be graded?
   * The French scale ranges from 0 (worst) to 20 (best).
   * You pass if your average on all the semester's exams is ≥10 points.
