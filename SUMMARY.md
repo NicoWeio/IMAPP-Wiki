@@ -11,6 +11,7 @@
   * [Leisure in France](<France/Leisure in France.md>)
   * [Exams in France](france/courses.md)
   * [DU Data Scientist](france/data-science-degree.md)
+* [Corsica](corsica.md)
 * [Germany](Germany/README.md)
   * [Accommodation in Germany](<Germany/Accommodation in Germany.md>)
 * [Italy](Italy/README.md)
