@@ -8,6 +8,8 @@ Once a refund is requested, the student ticket (for the current semester) is no 
 
 {% hint style="success" %}
 This is proven to work in the winter semester 2023/24.
+
+Deadline: March 15th, 2024
 {% endhint %}
 
 * Download the form [here](https://asta-dortmund.de/wp-content/uploads/wp-media/service/semesterticket/ticketrueckerstattung-antrag-sose23-en.pdf) ([German version](https://asta-dortmund.de/wp-content/uploads/wp-media/service/semesterticket/ticketrueckerstattung-antrag-sose22-de.pdf))
