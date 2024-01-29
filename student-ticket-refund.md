@@ -21,7 +21,7 @@ Deadline: March 15th, 2024
   * _Erstattungsgrund_: Auslandssemester
   * _Antrag_: the request form you downloaded in the beginning
   * _Ticket_: the ticket PDF you downloaded in the beginning
-  * _Nachweis_: proof of matriculation at a non-German university or similar; should include start and end dates
+  * _Nachweis_: proof of matriculation at a non-German university or similar; should include start and end monhts
     * This might be a bit tricky. I had a personal confirmation note lying around, but you can try other documents/approaches first. They will e-mail you if they are not yet satisfied.
 * Wait for about a week
 * You got yourself 183,35 €! 🎉
