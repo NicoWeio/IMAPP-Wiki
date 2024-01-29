@@ -1,9 +1,15 @@
 # Student ticket refund
 
+The semester ticket entitles you to use the German regional public transport.
+
 Since you do not make use of the German student ticket while in France or Italy, you are eligible for a refund.
 
 {% hint style="warning" %}
 Once a refund is requested, the student ticket (for the current semester) is no longer valid.
+{% endhint %}
+
+{% hint style="info" %}
+The refund procedure is done _per semester_. So don't worry, you will have your student ticket during the Dortmund semester(s).
 {% endhint %}
 
 {% hint style="success" %}
