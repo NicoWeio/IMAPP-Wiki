@@ -29,4 +29,13 @@ I should send instructions a few days before the exam takes place.
   * calculator (yes/no, needed / not needed): Not needed
 * additional remarks (if any): People asked me yesterday so: there won't be questions about algebra and/or coding by hand some parts of neural networks. The subject of the course is deep learning architectures and good practices, this is what the exam will be testing. ALSO, there's a short test (45 minutes, same conditions) on Thursday 02/01 at the beginning of class.
 {% endtab %}
+
+{% tab title="Neutrinos (Teixeira)" %}
+* allowed aids ↓
+  * lecture notes (yes/no):
+    * including slides (if applicable; yes/no): yes
+    * including handouts (if applicable; yes/no):
+    * including excerpts of books/webpages/… (yes/no): yes?
+    * may be viewed on digital devices (yes/no): yes; without internet connection
+{% endtab %}
 {% endtabs %}
