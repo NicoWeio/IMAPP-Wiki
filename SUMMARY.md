@@ -15,6 +15,7 @@
 * [Corsica](corsica.md)
 * [Germany](Germany/README.md)
   * [Accommodation in Germany](<Germany/Accommodation in Germany.md>)
+  * [Timetable in Germany](germany/timetable-in-germany.md)
 * [Italy](Italy/README.md)
   * [Accommodation in Italy](<Italy/Accommodation in Italy.md>)
   * [Timetable in Italy](italy/timetable-in-italy.md)
