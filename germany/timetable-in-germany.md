@@ -4,6 +4,7 @@
 * This is preliminary and incomplete information. For more information that's incomplete in different ways, visit [https://imapp.eu/programme/courses/](https://imapp.eu/programme/courses/) ;)
 * Also consider the [module handbook](https://imapp.eu/wp-content/uploads/2023/09/module-handbook-v2.2.pdf)
 * The _LSF_ links lead you to the university's planning tool for further information.
+* A list of all Physics Master courses – some of which you might be allowed to take – can be found [here](https://www.lsf.tu-dortmund.de/qisserver/rds?state=wtree\&search=1\&trex=step\&root120241=176028|175663|176925\&P.vx=kurz).
 {% endhint %}
 
 * compulsory:
