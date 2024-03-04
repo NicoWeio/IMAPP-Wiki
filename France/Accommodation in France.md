@@ -63,9 +63,19 @@
 * By the rental platform
   * Studapart offers the [_Studapart guarantee_](http://help.studapart.com/en/articles/3010730-what-is-the-studapart-guarantee-and-how-can-i-get-it)
 
-
+## Insurances
 
 {% hint style="info" %}
+Though some providers might handle this for you, having a home contents insurance (or however you call it) is mandatory in France.
+{% endhint %}
+
+* [Lovys](https://www.lovys.com/fr/en)
+  * ✅ some of us have used this
+  * cooperate with Garantme (1st month free)
+
+***
+
+{% hint style="warning" %}
 **Open questions**
 
 * Are we elegible for [CAF (housing aid)](https://www.caf.fr/allocataires/caf-de-loire-atlantique/offre-de-service/logement/etudiant/student-housing-aid)?
