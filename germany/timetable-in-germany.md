@@ -17,7 +17,7 @@
       * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292677\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung)
   * IMAPP-02-02 Practical aspects of particle physics measurements → 6 CP
     * → lecture
-      * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292718\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung)
+      * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292718\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung), [Moodle](https://moodle.tu-dortmund.de/course/view.php?id=45803)
     * → exercise
   * IMAPP-02-03 Detector systems in particle and medical physics → 9 CP
     * → lab: Advanced Laboratory course: Particle physics
@@ -40,10 +40,10 @@
     * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292633\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung)
   * IMAPP-02-08 Guest lecture on instrumentation → 3/6 CP
     * → lecture
-      * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292725\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung)
+      * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292725\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung), [Moodle](https://moodle.tu-dortmund.de/course/view.php?id=45809)
     * → exercise
     * → seminar (optional)
-      * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292777\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung)
+      * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292777\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung) \[now-broken link]
   * IMAPP-02-09 TUDO seminar on particle physics → 3 CP
     * **not graded!**
     * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292691\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung)
