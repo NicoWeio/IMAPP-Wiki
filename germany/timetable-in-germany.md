@@ -23,18 +23,18 @@
     * → lab: Advanced Laboratory course: Particle physics
       * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292688\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung)
     * → seminar/lecture: Detector physics
-      * [LSF (lecture)](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=297230\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung)
+      * [LSF (lecture)](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=297230\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung), [Moodle (lecture)](https://moodle.tu-dortmund.de/course/view.php?id=45820)
   * IMAPP-02-04 Spring/Summer school → 3 CP
     * no extra work during the lecture period :)
   * ↪ 24 CP
 * elective:
   * IMAPP-02-05 Electronics lab → 6 CP
-    * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292680\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung)
+    * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292680\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung), [Moodle](https://moodle.tu-dortmund.de/course/view.php?id=45904)
   * IMAPP-02-06 Modern particle physics → 6 CP
     * → False discoveries
       * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292700\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung)
     * → Machine Learning for Physicists
-      * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292706\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung)
+      * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292706\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung), [Moodle](https://moodle.tu-dortmund.de/course/view.php?id=45499)
     * → …and others
   * IMAPP-02-07 Astroparticle physics → 3 CP
     * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292633\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung)
