@@ -1,5 +1,7 @@
 # Timetable in Germany
 
+<figure><img src="../.gitbook/assets/schedule_2024.png" alt=""><figcaption><p>official 2024 timetable</p></figcaption></figure>
+
 {% hint style="info" %}
 * This is preliminary and incomplete information. For more information that's incomplete in different ways, visit [https://imapp.eu/programme/courses/](https://imapp.eu/programme/courses/) ;)
 * Also consider the [module handbook](https://imapp.eu/wp-content/uploads/2023/09/module-handbook-v2.2.pdf)
