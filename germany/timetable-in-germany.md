@@ -21,7 +21,7 @@
     * → exercise
   * IMAPP-02-03 Detector systems in particle and medical physics → 9 CP
     * → lab: Advanced Laboratory course: Particle physics
-      * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292688\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung)
+      * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292688\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung), [Moodle](https://moodle.tu-dortmund.de/course/view.php?id=39174)
     * → seminar/lecture: Detector physics
       * [LSF (lecture)](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=297230\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung), [Moodle (lecture)](https://moodle.tu-dortmund.de/course/view.php?id=45820)
   * IMAPP-02-04 Spring/Summer school → 3 CP
@@ -44,6 +44,6 @@
     * → exercise
     * → seminar (optional)
       * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292777\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung) \[now-broken link]
-  * IMAPP-02-09 TUDO seminar on particle physics → 3 CP
+  * IMAPP-02-09 TUDO seminar on particle physics → ~~3 CP~~ no CP
     * **not graded!**
     * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292691\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung)
