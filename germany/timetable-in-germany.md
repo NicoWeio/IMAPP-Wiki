@@ -1,6 +1,6 @@
 # Timetable in Germany
 
-<figure><img src="../.gitbook/assets/schedule_2024.png" alt=""><figcaption><p>official 2024 timetable</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/schedule_2024.png" alt=""><figcaption><p>official 2024 timetable; <br>the rooms for <em>Practical aspects of particle physics measurements</em> are wrong</p></figcaption></figure>
 
 {% hint style="info" %}
 * This is preliminary and incomplete information. For more information that's incomplete in different ways, visit [https://imapp.eu/programme/courses/](https://imapp.eu/programme/courses/) ;)
@@ -32,7 +32,7 @@
     * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292680\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung), [Moodle](https://moodle.tu-dortmund.de/course/view.php?id=45904)
   * IMAPP-02-06 Modern particle physics → 6 CP
     * → False discoveries
-      * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292700\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung)
+      * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292700\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung), [Moodle (can't register yet)](https://moodle.tu-dortmund.de/enrol/index.php?id=44947)
     * → Machine Learning for Physicists
       * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292706\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung), [Moodle](https://moodle.tu-dortmund.de/course/view.php?id=45499)
     * → …and others
