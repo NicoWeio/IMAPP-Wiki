@@ -31,9 +31,15 @@
   * IMAPP-02-05 Electronics lab → 6 CP
     * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292680\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung), [Moodle](https://moodle.tu-dortmund.de/course/view.php?id=45904)
   * IMAPP-02-06 Modern particle physics → 6 CP
-    * → False discoveries
+    * **choose some combination of the following:**
+    * → seminar: Detector systems in particle and medical physics
+      * not to be confused with the compulsory lab and lecture!
+      * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292664\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung), [Moodle (full!?)](https://moodle.tu-dortmund.de/enrol/index.php?id=45902)
+    * → seminar: Neutrinos and cosmology
+      * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292699\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung)
+    * → seminar: False discoveries
       * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292700\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung), [Moodle (can't register yet)](https://moodle.tu-dortmund.de/enrol/index.php?id=44947)
-    * → Machine Learning for Physicists
+    * → lecture with integrated exercise session: Machine Learning for Physicists
       * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292706\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung), [Moodle](https://moodle.tu-dortmund.de/course/view.php?id=45499)
     * → …and others
   * IMAPP-02-07 Astroparticle physics → 3 CP
