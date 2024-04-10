@@ -1,6 +1,6 @@
 # Timetable in Germany
 
-<figure><img src="../.gitbook/assets/schedule_2024_v2.png" alt=""><figcaption><p>official 2024 timetable; <br>the rooms for <em>Practical aspects of particle physics measurements</em> are wrong</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/schedule_2024_v2.png" alt=""><figcaption><p>official 2024 timetable; <br>the rooms for <em>Practical aspects of particle physics measurements</em> are wrong;<br><em>From SM to BSM Physics</em> is not held every week;<br><em>Neutrinos and cosmology</em> is actually on Thursday</p></figcaption></figure>
 
 {% hint style="info" %}
 * This is preliminary and incomplete information. For more information that's incomplete in different ways, visit [https://imapp.eu/programme/courses/](https://imapp.eu/programme/courses/) ;)
@@ -12,7 +12,7 @@
 * compulsory:
   * IMAPP-02-01 Model building in particle physics → 6 CP
     * → lecture: SM physics and BSM directions
-      * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292773\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung)
+      * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292773\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung), [Moodle](https://moodle.tu-dortmund.de/course/view.php?id=46676)
     * → seminar: Physics beyond the SM
       * [LSF](https://www.lsf.tu-dortmund.de/qisserver/rds?state=verpublish\&status=init\&vmfile=no\&publishid=292677\&moduleCall=webInfo\&publishConfFile=webInfo\&publishSubDir=veranstaltung)
   * IMAPP-02-02 Practical aspects of particle physics measurements → 6 CP
