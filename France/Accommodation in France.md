@@ -38,6 +38,7 @@
 * [StudCity](https://www.studcity-clermont.com/)
 * [Les Estudines](https://www.estudines.com/uk/)
   * ✅ some of us have used [this](https://www.estudines.com/uk/student-housing-clermont-ferrand/george-sand-residence)
+* [Les Belles Années](https://www.lesbellesannees.com/residence-etudiante-clermont-ferrand/)
 
 ### Search engines
 
