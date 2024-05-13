@@ -20,6 +20,7 @@
   * [Leisure in Dortmund](germany/leisure-in-dortmund.md)
 * [Italy](Italy/README.md)
   * [Accommodation in Italy](<Italy/Accommodation in Italy.md>)
+  * [Enrollment in Italy](italy/enrollment-in-italy.md)
   * [Timetable in Italy](italy/timetable-in-italy.md)
 * [Timeline](timeline.md)
 * [Pros & Cons](pros-and-cons.md)
