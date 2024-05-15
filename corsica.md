@@ -5,8 +5,16 @@
 * [Institut d'Études Scientifiques | Cargèse](https://iesc.universita.corsica/?lang=en)
 * last week of March
 * flights (to Ajaccio) are organized individually, though reimbursed (up to \~300€; some day…)
-* bus/taxi for Ajaccio–Cargese (plus Clermont–Lyon) is organized
+*
 * there will be no exams on any of the lectures :)
+
+## Travel
+
+* organized individually
+  * reimbursed after providing receipts
+    * even hotel costs etc.
+    * no strict limit known; some have received >400 €
+* …though bus/taxi for Ajaccio–Cargese (plus Clermont–Lyon) were organized
 
 ## Accommodation
 
