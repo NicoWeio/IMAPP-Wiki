@@ -23,12 +23,12 @@ Deadline: March 15th, 2024
 * Fill the form…
   * _Matrikel-Nr._: matriculation number (“registration number”); can be found in the [campus portal](https://www.campus.tu-dortmund.de) (Home → Student Service → dropdown: Personal data)
   * _Ticket-ID_: can be found on the ticket below your name, but probably identical to your matriculation number (“registration number”)
-* Submit the document [here](https://asta-dortmund.de/2019/05/10/ticketrueckerstattung/)
+* Submit the document [here](https://asta-dortmund.de/2024/03/06/ticketrueckerstattung/)
   * _Erstattungsgrund_: Auslandssemester
   * _Antrag_: the request form you downloaded in the beginning
   * _Ticket_: the ticket PDF you downloaded in the beginning
   * _Nachweis_: proof of matriculation at a non-German university or similar; should include start and end monhts
     * This might be a bit tricky. I had a personal confirmation note lying around, but you can try other documents/approaches first. They will e-mail you if they are not yet satisfied.
 * Wait for about a week
-* You got yourself 183,35 €! 🎉
+* You got yourself approx. €150! 🎉
 * ~~I should~~ [~~take money~~](https://www.paypal.me/nicoweio) ~~for these instructions… xD~~
