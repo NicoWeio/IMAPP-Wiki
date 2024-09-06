@@ -1,7 +1,7 @@
 # Accommodation in Germany
 
 * The _Studierendenwerk Dortmund_ reserves accommodation for foreign students; this has actually worked in the past
-* The place you'll likely stay is [Am Gardenkamp 53, 55](https://www.stwdo.de/wohnen/haeuser-in-dortmund/am-gardenkamp-53-55)
-  * This is on the southern campus, while everything related to physics is at the northern campus
-  * During the day, you can use the [H-Bahn](https://de.wikipedia.org/wiki/H-Bahn) to quickly travel between the campuses
-    * It's free for students
+* The reserved capacity should be enough for most or all IMAPP students. Non-EU students might be prioritized.
+* You'll get an offer for one of [many residences](https://www.stwdo.de/wohnen/alle-wohnanlagen)
+  * Don't be afraid if your residence is not right next to the North campus: You can use buses or the [H-Bahn](https://de.wikipedia.org/wiki/H-Bahn), for free
+* For some reason, a cleaning service is included with your contract – don't be surprised if they enter without warning!
