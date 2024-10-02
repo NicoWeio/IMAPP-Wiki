@@ -29,6 +29,7 @@ Deadline: March 15th, 2024
   * _Ticket_: the ticket PDF you downloaded in the beginning
   * _Nachweis_: proof of matriculation at a non-German university or similar; should include start and end monhts
     * This might be a bit tricky. I had a personal confirmation note lying around, but you can try other documents/approaches first. They will e-mail you if they are not yet satisfied.
+    * Maybe ask your professor to create a confirmation document with all student's names.
 * Wait for about a week
 * You got yourself approx. €150! 🎉
 * ~~I should~~ [~~take money~~](https://www.paypal.me/nicoweio) ~~for these instructions… xD~~
