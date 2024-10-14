@@ -13,6 +13,10 @@
 * IAEA Marie Sklodowska-Curie Fellowship Programme (MSCFP)
   * → [https://imapp.eu/scholarships-fees/additional-opportunities/](https://imapp.eu/scholarships-fees/additional-opportunities/)
   * Females only
+* Scholarships offered by Unibo
+  * → [https://www.unibo.it/en/study/study-grants-and-subsidies](https://www.unibo.it/en/study/study-grants-and-subsidies)
+  * _ER.GO_ scholarships do not apply
+  * Looks like there's hardly any offer for us :/
 * Erasmus+ scholarships
   * → [https://imapp.eu/scholarships-fees/additional-opportunities/](https://imapp.eu/scholarships-fees/additional-opportunities/)
   * Fourth semester only
