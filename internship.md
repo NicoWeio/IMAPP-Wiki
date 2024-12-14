@@ -1,0 +1,7 @@
+# Internship
+
+* The _internship opportunity seminar_ series takes begins in late November.
+* You should not wait for this series to get in touch with your potential supervisors if…
+  * you have a specific institution in mind, beside the three IMAPP universities (like CERN)
+  * you want to study in a non-EU country where visa might be an issue
+  * you want to have more than a week to decide

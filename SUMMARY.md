@@ -28,6 +28,7 @@
   * [Leisure in Italy](italy/leisure-in-italy.md)
   * [Exams in Italy](italy/exams-in-italy.md)
   * [Grade conversion](italy/grade-conversion.md)
+* [Internship](internship.md)
 * [Timeline](timeline.md)
 * [Pros & Cons](pros-and-cons.md)
 * [Scholarships](scholarships/README.md)
