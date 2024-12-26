@@ -19,6 +19,7 @@
   * [Timetable in Germany](germany/timetable-in-germany.md)
   * [Campus in Germany](germany/campus-in-germany.md)
   * [Leisure in Dortmund](germany/leisure-in-dortmund.md)
+  * [Exams in Germany](germany/exams-in-germany.md)
 * [Italy](Italy/README.md)
   * [FAQ](italy/faq.md)
   * [Accommodation in Italy](<Italy/Accommodation in Italy.md>)

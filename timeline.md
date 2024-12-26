@@ -39,6 +39,8 @@ Below dates (given as DD.MM.) are mostly for 2023/2024. They are not expected to
 * In [Bologna (Italy)](Italy/):
   * \~23.09.: start of lectures
     * This is not known a semester in advance!?
+  * \~23.12.: end of lectures
+  * \~30.02.: end of exams
 * Wherever you choose to spend the fourth semester:
   *
 
