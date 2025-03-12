@@ -6,6 +6,8 @@ Since you do not make use of the German student ticket while in France or Italy,
 
 {% hint style="warning" %}
 Once a refund is requested, the student ticket (for the current semester) is no longer valid.
+
+Although it has been proven to work nonetheless…
 {% endhint %}
 
 {% hint style="info" %}
