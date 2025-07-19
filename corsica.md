@@ -4,22 +4,21 @@
 
 * [Institut d'Études Scientifiques | Cargèse](https://iesc.universita.corsica/?lang=en)
 * last week of March
-* flights (to Ajaccio) are organized individually, though reimbursed (up to \~300€; some day…)
-*
 * there will be no exams on any of the lectures :)
 
 ## Travel
 
 * organized individually
+  * most common option: fly to Ajaccio
   * reimbursed after providing receipts
     * even hotel costs etc.
-    * no strict limit known; some have received >400 €
+      * no strict limit known; some have received >500 €
 * …though bus/taxi for Ajaccio–Cargese (plus Clermont–Lyon) were organized
 
 ## Accommodation
 
 * <mark style="background-color:yellow;">\[TODO: map]</mark>
-* rooms for two people, including bathroom, in two buildings
+* rooms for two people, including a bathroom, in two buildings
 * towels are provided
 * basic daily cleaning service (cleaning the floor, making the bed)
 * nothing is locked; just your private rooms are secured by PIN codes
@@ -33,7 +32,7 @@
 
 ## Leisure
 
-* a few planned events, such as a beach volleyball tournament or a musical evening (bring your guitar!)
+* a few planned events, such as a beach volleyball tournament or a musical evening (piano available; bring your guitar!)
 * 30-min walk to the Cargèse city center: supermarket, a few restaurants, beach
 * chairs at various spots with a nice view
   * contrary to those at Clermont, the chairs at Cargèse are fully intact :P
