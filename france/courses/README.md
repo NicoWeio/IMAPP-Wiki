@@ -28,7 +28,7 @@ Instead of a big table of mostly similar requirements, below is an overview high
   * **You pass if your average on all the semester's exams is ≥10 points.**
 * Are there any exams from previous semesters for practicing?
   * Yes, usually: Ask the professors and look at the courses' Moodle pages
-  * There is also an online collection [about here](https://nicoweio.github.io/IMAPP-Exams/). In order to protect the intellectual property, I can't share the actual address publicly.
+  * There is also an online collection. Ask me or fellow students for the link and credentials. In order to protect the intellectual property, I can't share anything publicly.
 * (How) are grades normalized?
   * At the end of the semester, there will be a conference of all teaching staff where the grades can be shifted, apparently without adhering to specific rules.
 
